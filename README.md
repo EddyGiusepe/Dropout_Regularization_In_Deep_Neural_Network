@@ -2,6 +2,8 @@
 
 Aqui aprenderemos a utilizar e a entender o uso do método Dropout. 
 
+A seguir descrevemos os Dados que utilizaremos:
+
 O arquivo "sonar.mines" contém 111 padrões obtidos através da projeção de sinais de sonar de um cilindro de metal em vários ângulos e sob várias condições. O arquivo "sonar.rocks" contém 97 padrões obtidos de rochas em condições semelhantes. O sinal de sonar transmitido é um chiado de frequência modulada, aumentando em frequência. O conjunto de dados contém sinais obtidos de uma variedade de ângulos de aspecto diferentes, abrangendo 90 graus para o cilindro e 180 graus para a rocha. 
 
 
