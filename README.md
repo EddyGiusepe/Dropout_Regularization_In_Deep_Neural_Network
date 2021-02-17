@@ -11,7 +11,7 @@ Cada padrão é um conjunto de 60 números no intervalo de 0.0 a 1.0. **Cada nú
 O rótulo associado a cada registro contém a letra ``R`` se o objeto for uma rocha e ``M`` se for uma mina (cilindro de metal). Os números nas etiquetas estão em ordem crescente de ângulo de aspecto, mas não codificam o ângulo diretamente.
 
 
-O Dataset pode ser encontrado [aqui](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks).
+O Dataset pode ser encontrado [aqui](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)).
 
 
 Uma explicação em vídeo [pode ser assistido aqui](https://www.youtube.com/watch?v=lcI8ukTUEbo&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&index=20).
